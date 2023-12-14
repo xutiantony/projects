@@ -15,7 +15,7 @@ This repository showcases a diverse array of personal, professional, and academi
 ### R Academic Projects
 - **Data Analysis and Prediction:** Projects involve predicting IMDb film ratings and analyzing business insights from a dark chocolate bar rating dataset.
 
-### Miscellaneous Personal Projects
+### Other Personal Projects
 - **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms.
 
 **Contact:** For inquiries, feel free to reach me at [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca).
