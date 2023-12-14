@@ -18,4 +18,4 @@ This repository showcases a diverse array of personal, professional, and academi
 ### Miscellaneous Personal Projects
 - **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms.
 
-**Contact:** For inquiries, reach me at [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca).
+**Contact:** For inquiries, feel free to reach me at [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca).
