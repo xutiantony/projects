@@ -9,7 +9,7 @@ This repository showcases a diverse array of personal, professional, and academi
 ### Professional Presentation Projects
 - **Presentation Templates:** Derived from previous professional roles, with anonymized data and brands.
 
-### Python Academic Projects
+### Python Academic Project
 - **Chatbot and Machine Learning:** Projects include a simple chatbot, a optmization project on recommending ideal luxury store design layout, and a machine learning model for predicting LinkedIn job application success rates.
 
 ### R Academic Projects
