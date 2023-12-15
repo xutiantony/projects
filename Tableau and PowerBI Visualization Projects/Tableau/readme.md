@@ -1,4 +1,4 @@
-# A sample Tableau Dashboard on a clothing brand sales figure:
+# A sample Tableau Dashboard on a clothing brand sales figure, data randomized:
 https://public.tableau.com/app/profile/tian.xu4658/viz/UCGSalesPortfolio/Dashboard1
 
 ![Dashboard 1 (1)](https://github.com/xutiantony/projects/assets/103725419/79416204-9c6f-4fd1-a6d0-7257bd9de17d)
