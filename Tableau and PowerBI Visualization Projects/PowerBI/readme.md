@@ -1,4 +1,6 @@
 # A sample dashboard on a bike brand sales dataset:
+A more detailed writedown at Medium:
+https://medium.com/@xutiantony/adventure-works-analysis-techniques-and-rfm-model-56f6aa8ecf08
 ## Overview
 <img width="499" alt="image" src="https://github.com/xutiantony/projects/assets/103725419/bbdd1637-70d5-4296-9881-160ea157c818">
 
