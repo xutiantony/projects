@@ -19,6 +19,6 @@ This repository showcases a diverse array of personal, professional, and academi
 - **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms.
 
 ### Work on Medium
- - ## Data and Code for my articles on Medium##
+ - **Data and Code for my articles on Medium**
 
 **Contact:** For inquiries, feel free to reach me at [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca).
