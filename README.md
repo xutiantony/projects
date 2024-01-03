@@ -3,6 +3,11 @@
 ## Overview
 This repository showcases a diverse array of personal, professional, and academic projects from the past two years. Certain data is anonymized due to NDA agreements.
 
+### Work on Medium
+ - **Data and Code for my articles on Medium**
+ - https://medium.com/@xutiantony/medicare-part-d-analysis-eda-and-linear-regression-9ccea33281e5
+ - https://medium.com/@xutiantony/adventure-works-analysis-techniques-and-rfm-model-56f6aa8ecf08
+   
 ### Tableau and PowerBI Visualization Projects
 - **Personal Projects:** Visualizations created using Tableau and Power BI.
 
@@ -14,8 +19,5 @@ This repository showcases a diverse array of personal, professional, and academi
 
 ### Other Personal Projects
 - **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms.
-
-### Work on Medium
- - **Data and Code for my articles on Medium**
 
 **Contact:** For inquiries, feel free to reach me at [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca).
