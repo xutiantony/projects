@@ -5,8 +5,8 @@ This repository showcases a diverse array of personal, professional, and academi
 
 ### Work on Medium
  - **Data and Code for my articles on Medium**
- - https://medium.com/@xutiantony/medicare-part-d-analysis-eda-and-linear-regression-9ccea33281e5
- - https://medium.com/@xutiantony/adventure-works-analysis-techniques-and-rfm-model-56f6aa8ecf08
+   - https://medium.com/@xutiantony/medicare-part-d-analysis-eda-and-linear-regression-9ccea33281e5
+   - https://medium.com/@xutiantony/adventure-works-analysis-techniques-and-rfm-model-56f6aa8ecf08
    
 ### Tableau and PowerBI Visualization Projects
 - **Personal Projects:** Visualizations created using Tableau and Power BI.
