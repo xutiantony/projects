@@ -30,12 +30,12 @@ This repository showcases a diverse array of personal, professional, and academi
 - **Data Analysis and Prediction:** Projects involve predicting IMDb film ratings and analyzing business insights from a dark chocolate bar rating dataset.
 
 ### Other Personal Projects
-- **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms.
+- **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms, applying on different public datasets.
 
-  **An Ecommerce Sales Analysis using Python**:
+  **An Complete Ecommerce Sales Analysis Report using Python (sample graphs below)**:
   ![image](https://github.com/xutiantony/projects/assets/103725419/82109e9e-fe9d-488a-95ac-c9d1b419671a)
 
-  **A Software sales Analysis in Python**:
+  **A Complete Software sales Analysis report in Python**:
   ![image](https://github.com/xutiantony/projects/assets/103725419/f6291d40-5ca1-4d8e-af72-391fa90e13d8)
 
   More details can be found in the folder.
