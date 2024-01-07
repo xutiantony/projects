@@ -32,4 +32,14 @@ This repository showcases a diverse array of personal, professional, and academi
 ### Other Personal Projects
 - **Python Applications:** Various personal projects exploring data visualization and machine learning algorithms.
 
+  An Ecommerce Sales Analysis using Python:
+  ![image](https://github.com/xutiantony/projects/assets/103725419/82109e9e-fe9d-488a-95ac-c9d1b419671a)
+
+  A Software sales Analysis in Python:
+  ![image](https://github.com/xutiantony/projects/assets/103725419/f6291d40-5ca1-4d8e-af72-391fa90e13d8)
+
+  More details can be found in the folder.
+
+
+
 **Contact:** For inquiries, feel free to reach me at [tian.xu3@mail.mcgill.ca](mailto:tian.xu3@mail.mcgill.ca).
