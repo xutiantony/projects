@@ -5,8 +5,10 @@ This repository showcases a diverse array of personal, professional, and academi
 
 ### Work on Medium
  - **Data and Code for my articles on Medium**
+   
     Medicare part-d analysis EDA and linear-regression
    - https://medium.com/@xutiantony/medicare-part-d-analysis-eda-and-linear-regression-9ccea33281e5
+   
     RFM analysis on Adventure Works
    - https://medium.com/@xutiantony/adventure-works-analysis-techniques-and-rfm-model-56f6aa8ecf08
    
