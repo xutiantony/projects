@@ -15,6 +15,14 @@ This repository showcases a diverse array of personal, professional, and academi
 ### Tableau and PowerBI Visualization Projects
 - **Personal Projects:** Visualizations created using Tableau and Power BI.
 
+  Power BI
+  ![image](https://github.com/xutiantony/projects/assets/103725419/6a47b737-5edf-414b-8dc5-83beff7ff048)
+
+  Tableau
+  ![image](https://github.com/xutiantony/projects/assets/103725419/3d8f6ac7-0cd9-415a-914d-c7bf86464739)
+
+  More details can be found in the folder.
+
 ### Python Academic Project
 - **Chatbot and Machine Learning:** Projects include a simple chatbot, a optmization project on recommending ideal luxury store design layout, and a machine learning model for predicting LinkedIn job application success rates.
 
