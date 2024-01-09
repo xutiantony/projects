@@ -16,11 +16,11 @@ This repository showcases a diverse array of personal, professional, and academi
 ### Tableau and PowerBI Visualization Projects
 - **Personal Projects:** Visualizations created using Tableau and Power BI.
 
-  **Power BI**[PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiMDRlNGQ3ZjktMWYzNS00MDgzLTgzNGItYzQ5MDA5ZGY0YzE5IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9):
+  **Power BI**  [PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiMDRlNGQ3ZjktMWYzNS00MDgzLTgzNGItYzQ5MDA5ZGY0YzE5IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9):
   ![image](https://github.com/xutiantony/projects/assets/103725419/6a47b737-5edf-414b-8dc5-83beff7ff048)
 
  
-  **Tableau**[Tableau Dashboard](https://public.tableau.com/app/profile/tian.xu4658/viz/UCGSalesPortfolio/Dashboard1):
+  **Tableau**  [Tableau Dashboard](https://public.tableau.com/app/profile/tian.xu4658/viz/UCGSalesPortfolio/Dashboard1):
   ![image](https://github.com/xutiantony/projects/assets/103725419/3d8f6ac7-0cd9-415a-914d-c7bf86464739)
  
 
