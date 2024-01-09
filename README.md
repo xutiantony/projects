@@ -1,4 +1,3 @@
-# Readme
 
 ## Overview
 This repository showcases a diverse array of personal, professional, and academic projects from the past two years. Certain data is anonymized due to NDA agreements.
