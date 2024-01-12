@@ -27,7 +27,7 @@ Welcome to my repository! Here, I present a diverse collection of personal, prof
 
 - **Power BI**: 
   - [View Powerbi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDRlNGQ3ZjktMWYzNS00MDgzLTgzNGItYzQ5MDA5ZGY0YzE5IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9))
-  - ![Powerbi Dashboard]<img width="620" alt="image" src="https://github.com/xutiantony/projects/assets/103725419/fe11e59d-58b2-4a1b-a443-e0d26eff74e5">
+  - <img width="620" alt="image" src="https://github.com/xutiantony/projects/assets/103725419/fe11e59d-58b2-4a1b-a443-e0d26eff74e5">
 
 
 - **Tableau**: 
