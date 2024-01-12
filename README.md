@@ -26,8 +26,7 @@ Welcome to my repository! Here, I present a diverse collection of personal, prof
 ### Personal Projects: Tableau and Power BI Visualizations
 
 - **Power BI**: 
-  - [View PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiMDRlNGQ3ZjktMWYzNS00MDgzLTgzNGItYzQ5MDA5ZGY0YzE5IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
-  - ![Power BI Visualization](https://github.com/xutiantony/projects/assets/103725419/6a47b737-5edf-414b-8dc5-83beff7ff048)
+<iframe title="adventure" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDRlNGQ3ZjktMWYzNS00MDgzLTgzNGItYzQ5MDA5ZGY0YzE5IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 - **Tableau**: 
   - [View Tableau Dashboard](https://public.tableau.com/app/profile/tian.xu4658/viz/UCGSalesPortfolio/Dashboard1)
