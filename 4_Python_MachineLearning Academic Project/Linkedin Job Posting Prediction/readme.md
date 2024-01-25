@@ -1,5 +1,5 @@
 # INSY 662 - Job Application Rate Prediction
-![image](https://github.com/xutiantony/projects/assets/103725419/06682a38-792c-47e5-9f8e-c99bb0c16915)
+![image](https://github.com/xutiantony/projects/assets/103725419/ca1280d6-57e8-48ef-8801-7506bd2b26e8)
 
 ## Overview
 This comprehensive study employs advanced analytics to predict job application rates, focusing on data from LinkedIn job postings.
