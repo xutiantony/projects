@@ -1,5 +1,6 @@
 
 # Luxury Boutique Layout Design
+<img width="787" alt="image" src="https://github.com/xutiantony/projects/assets/103725419/5168ec40-2a02-4128-9c45-e587a382c520">
 
 ## Overview
 This report offers an analytical approach to optimizing luxury boutique layouts through the usage of linear optimization algorithm, focusing on maximizing customer engagement and sales through strategic product placement.
